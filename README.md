@@ -39,8 +39,8 @@ A program that can translate text extracted from an image.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Example Using [Jupyter Notebook](https://jupyter.org/)
-![example](examples/example.png)
+* See [Here](https://github.com/Joanderson90/translator_text_from_image/blob/main/Translator_Text_From_Image.ipynb) an example using [Jupyter Notebook](https://jupyter.org/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
